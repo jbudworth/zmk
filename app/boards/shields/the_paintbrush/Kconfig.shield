@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MIT
 
 config SHIELD_THE_PAINTBRUSH_LEFT
-	def_bool $(shields_list_contains,the_paintbrush_left)
+    def_bool $(shields_list_contains,the_paintbrush_left)
 
 config SHIELD_THE_PAINTBRUSH_RIGHT
-	def_bool $(shields_list_contains,the_paintbrush_right)
+    def_bool $(shields_list_contains,the_paintbrush_right)

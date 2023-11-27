@@ -28,4 +28,4 @@
 #define TRAILING_NONES NONE(0, 0, 0)
 
 // Include main ardux.io keymap
-#include "../../../ardux.dtsi"
+#include "../../../dts/behaviors/ardux-v2.dtsi"
